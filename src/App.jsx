@@ -12,6 +12,11 @@ function App() {
     <>
       <Header/>
       <Hero/>
+      <About/>
+      <Testimonials/>
+      <Pricing/>
+      <Contact/>
+      <Footer/>
       
     </>
   )
