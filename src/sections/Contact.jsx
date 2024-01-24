@@ -5,7 +5,7 @@ import cube from '../assets/images/cube.png'
 function Contact() {
   return (
     <>
-        <section className='flex flex-col items-center justify-center w-full gap-10 p-4 bg-slate-200 lg:flex-row md:gap-20 h-fit lg:p-20'>
+    <section id='contact' className='flex flex-col items-center justify-center w-full gap-10 p-4 bg-slate-200 lg:flex-row md:gap-20 h-fit lg:p-20'>
 
 <div className='z-20 flex flex-col items-center justify-center w-full gap-10 px-8 py-12 bg-white rounded-lg lg:flex-row lg:w-3/4 '>
 
