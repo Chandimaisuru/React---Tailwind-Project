@@ -10,7 +10,7 @@ function Testimonials() {
 
       <h1 className='font-bold text-green-600 text-center leading-[68px] text-6xl'>What Clients Says</h1>
 
-      <p className='text-2xl text-center text-slate-950 '>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur reprehenderit tempora magni dolor <br />corrupti repudiandae consequatur ratione unde quidem repellendus?</p>
+      <p className='text-2xl text-center text-slate-950 '>hh doilor sit,Pariatur reprehenderit tempora magni dolor <br />corrupti repudiandae consequatur ratione unde quidem repellendus?</p>
 
       <div className='flex flex-wrap items-center justify-center w-full gap-6 mt-5'>
 
